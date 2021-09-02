@@ -1,0 +1,11 @@
+Driver Dan
+Driver Lauren
+Driver Kumi
+Driver Sam
+Driver John
+Trip Dan 07:15 07:45 17.3
+Trip Dan 06:12 06:32 21.8
+Trip Lauren 12:01 13:16 42.0
+Trip Sam 23:23 00:12 100
+Trip John 14:01 14:24 1
+Trip John 10:13 10:25 2
